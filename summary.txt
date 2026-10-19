@@ -1,0 +1,9 @@
+PATIENT DRUG REVIEW ANALYSIS
+Total reviews analyzed: 3107
+Average rating: 7.01
+
+Sentiment distribution:
+Sentiment
+Positive    2130
+Negative     554
+Neutral      423
